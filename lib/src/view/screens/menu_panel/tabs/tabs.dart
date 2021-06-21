@@ -1,0 +1,1 @@
+export './purcheses_tab.dart';
